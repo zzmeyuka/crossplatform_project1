@@ -25,7 +25,7 @@ Run on an emulator:
 flutter run
 
 📽️ Video
-Link to the video 
+Link to the video https://drive.google.com/file/d/1t0y4o9Ajr7enALqJ1J5bC2h9Nak7ytfZ/view?usp=sharing
 
 🛠️ Technologies Used
 Flutter
